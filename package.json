@@ -2,7 +2,7 @@
   "name": "construyendo-apis-rest-utilizando-nodejs-con-expressjs",
   "version": "1.0.0",
   "description": "1. Paso 1: crear un archivo package.json con el fin de llevar un control de todos mis\r paquetes (Modulos) instalados en el proyecto.\r - npm init -y\r - npm install mysql",
-  "main": "server.js",
+  "main": "API.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
